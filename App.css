@@ -1,0 +1,17 @@
+table, th {
+  border:1px solid black;
+  margin: 1% 1% 1% 1%
+}
+
+table {
+  width: 50%;
+  height: 50%;
+}
+
+input{
+  border: hidden;
+}
+
+th:hover {
+  border:1px solid blue;
+}
